@@ -1,4 +1,4 @@
-# Planificador de Presupuesto
+# Contador Simple
 
 Una pequeña aplicación desarrollada con React y TailwindCSS que permite incrementar, decrementar y reiniciar un contador.  
 Incluye un botón para alternar entre modo claro y modo oscuro dinámicamente.  
